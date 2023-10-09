@@ -1,5 +1,7 @@
 
-![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/itsRamit/itsRamit/assets/127865288/f03f1729-5732-4b4f-a152-f0c919071a66)
+![Black Simple Inspirational Quotes New LinkedIn Banner (3)](https://github.com/itsRamit/itsRamit/assets/127865288/2cace6b0-30e1-41b6-8547-544d541ebd7c)
+
+
 <h1 align="center">Hi 👋, I'm Ramit Das</h1>
 <h3 align="center">A Developer, Programmer</h3>
 
