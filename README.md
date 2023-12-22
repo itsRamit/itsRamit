@@ -32,11 +32,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsRamit&limit=5&theme=onedark&combine_all_yearly_contributions=true)<br/>
 
-### 🧮 Other
-<div align = "center">
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wqxjaff67ioaswm73izptzp55m)      ![LeetCode Stats](https://leetcard.jacoblin.cool/ItzRamit?theme=dark&font=Smooch%20Sans)
-    
-</div>
-
+### 🧮 Leetcode
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/ItzRamit?theme=dark&font=Smooch%20Sans)
+### 🎶 Music
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wqxjaff67ioaswm73izptzp55m)
 </div>
