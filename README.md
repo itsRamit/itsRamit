@@ -28,12 +28,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsRamit&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsRamit&theme=radical&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsRamit&limit=5&theme=onedark&combine_all_yearly_contributions=true)<br/>
-
-### 🧮 Leetcode
- ![LeetCode Stats](https://leetcard.jacoblin.cool/ItzRamit?theme=dark&font=Smooch%20Sans)
-### 🎶 Music
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wqxjaff67ioaswm73izptzp55m)
 </div>
